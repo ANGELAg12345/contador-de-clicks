@@ -53,3 +53,9 @@ Diseño
 
 ![image](https://user-images.githubusercontent.com/112735693/229303005-afa69dbb-3e4e-4e11-8864-c3233df10c88.png)
 
+
+Ejecucion del prouyecto desde pc
+Entorno de trabajo Visual Studio Code
+
+
+![image](https://user-images.githubusercontent.com/112735693/229303433-1c2c63e2-a839-4bb3-9669-24c1836caf27.png)
