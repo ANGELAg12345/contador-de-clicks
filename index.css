@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(142, 221, 142);
+    font-size:20px;
+    font-family:Courier;
+    font-weight:lighter;
+    font-style:italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-decoration:underline;
+    text-transform:uppercase;
+    text-align:center;
+    text-indent:50px;
+
+
+}
+ h1{
+    text-align: center;
+    color: orange;
+ }
+
+ button{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:black;
+        background:#b5639c;
+        border:10px;
+        width:100px;
+        height: 50px;
+        margin: 5px;
+       }
+ 
+       button{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:black;
+        background:#b56d63;
+        border:10px;
+        width:100px;
+        height: 50px;
+        margin: 5px;
+       }
