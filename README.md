@@ -46,4 +46,10 @@ Diseño
 •	El componente mostrará el número de clicks y los dos botones en la interfaz de usuario.
 
 
+ MUCKUP
+
+
+![image](https://user-images.githubusercontent.com/112735693/229302974-9b572477-a73f-4bf1-87a1-4a106d301b4d.png)
+
+![image](https://user-images.githubusercontent.com/112735693/229303005-afa69dbb-3e4e-4e11-8864-c3233df10c88.png)
 
