@@ -6,8 +6,8 @@ PROPUESTA PROYECTO REACT
 
 
 
-INTEGRANTES: Angela Gomez Parra
-             Heidelberth Rocha Torres
+INTEGRANTES: Angela Gomez Parra,
+             Heidelberth Rocha Torres,
              Edy Santiago Catro
 
 
